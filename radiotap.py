@@ -1,4 +1,11 @@
 #!/usr/bin/env python
+
+'''
+    python-radiotap
+    Author: bcopeland
+    Repository: https://github.com/bcopeland/python-radiotap/
+'''
+
 # parse radiotap fields from pcap buffers into a dictionary
 #
 # example:
